@@ -7,3 +7,6 @@
 [submodule "trainticketapp-angular-ui"]
 	path = trainticketapp-angular-ui
 	url = https://github.com/sf-fresher-batch-2020/trainticketapp-angular-ui.git
+[submodule "trainticketapp-mock-api"]
+	path = trainticketapp-mock-api
+	url = https://github.com/sf-fresher-batch-2020/trainticketapp-mock-api.git
